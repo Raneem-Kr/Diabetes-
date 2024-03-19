@@ -1,0 +1,35 @@
+body{
+    overflow-x: hidden;
+    perspective: 600px;
+}
+
+.eat h2{
+    color: #40bb81;
+
+}
+.eat p{
+    margin-bottom: 30px;
+}
+.box-diet{
+    border: 1px solid #00000045;
+    text-align: center;
+    padding: 5px;
+    transition: all .5s linear;
+
+}
+.box-diet:hover{
+    transform: scale(1.04);
+}
+.box-diet a{
+    color: #000;
+}
+.box-diet a:hover{
+    text-decoration: none;
+    color: #40bb81;
+  
+
+}
+.img-dieat{
+    width: 80%;
+    margin-bottom: 20px;
+}
